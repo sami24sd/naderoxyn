@@ -13,7 +13,7 @@
   "kv_namespaces": [
     {
       "binding": "KV",
-      "id": "bef8c872b651470b9080fb5f176bc30f"
+      "id": "2b8ec98532d246dcad120bf40115ffca"
     }
   ],
 
@@ -22,8 +22,8 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "bpbbi",
-      "database_id": "010a4f0f-7246-4ba9-a22b-b64e265cbd39"
+      "database_name": "nadertu3",
+      "database_id": "183a0f2d-868d-4ce6-b39e-2e29cceda9a1"
     }
   ],
 
